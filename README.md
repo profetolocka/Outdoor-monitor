@@ -12,11 +12,11 @@ Consultá desde tu teléfono la temperatura, la humedad y la presión ambiental 
 
 El repositorio está organizado en carpetas con el siguiente contenido:
 
-Code: Código UIFlow2
+**Code:** Código UIFlow2
 
-KiCad: Proyecto de Kicad 9 con el esquemático y PCB
+**KiCad:** Proyecto de Kicad 9 con el esquemático y PCB
 
-images: Imágenes para este archivo
+**images:** Imágenes para este archivo
 
 ---
 
@@ -44,7 +44,13 @@ Check the temperature, humidity, and atmospheric pressure from your phone before
 
 ## 📂 Contents
 
-The repository is organized into two folders, `Español` and `English`, structuring the content in both languages. 
+The repository is organized into folders with the following content:
+
+**Code:** UIFlow2 code
+
+**KiCad:** KiCad 9 project with schematic and PCB
+
+**images:** Images for this file
 
 ---
 
