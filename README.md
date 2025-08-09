@@ -7,9 +7,6 @@ Consultá desde tu teléfono la temperatura, la humedad y la presión ambiental 
 
 ![Outdoor monitor with Atom Lite](/images/monitor1.jpg)
 
-
-
-
 ---
 
 ## 📂 Contenido
@@ -50,9 +47,6 @@ Creado por [Ernesto Tolocka](https://www.profetolocka.com.ar) – Profesor de el
 
 Check the temperature, humidity, and atmospheric pressure from your phone before leaving home with this handy project based on an **M5Stack Atom Lite** and the **ThingShow** app.
 
-[Track outdoor weather on your phone using Atom Lite](https://www.hackster.io/etolocka/track-outdoor-weather-on-your-phone-using-atom-lite-982a54)
-
-
 ![Outdoor monitor with Atom Lite](/images/monitor1.jpg)
 
 ---
@@ -74,6 +68,7 @@ The repository is organized into folders with the following content:
 Read the full explanation of how the monitor works:
 
 [Track outdoor weather on your phone using Atom Lite – PCBWay Project](https://www.pcbway.com/project/shareproject/Track_outdoor_weather_on_your_phone_using_Atom_Lite_3f8a86fd.html)
+
 [Track outdoor weather on your phone using Atom Lite – Hackster.io](https://www.hackster.io/etolocka/track-outdoor-weather-on-your-phone-using-atom-lite-982a54)
 
 ---
