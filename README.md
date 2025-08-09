@@ -4,7 +4,12 @@
 
 Consultá desde tu teléfono la temperatura, la humedad y la presión ambiental antes de salir de casa, con este práctico proyecto basado en un Atom Lite de M5Stack y la app ThingShow.
 
+[Monitorea el clima en tu teléfono con Atom Lite](https://www.profetolocka.com.ar/2025/06/30/monitorea-el-clima-en-tu-telefono-con-atom-lite/)
+
 ![Outdoor monitor with Atom Lite](/images/monitor1.jpg)
+
+
+
 
 ---
 
@@ -37,6 +42,9 @@ Creado por [Ernesto Tolocka](https://www.profetolocka.com.ar) – Profesor de el
 # Outdoor Environmental Monitor
 
 Check the temperature, humidity, and atmospheric pressure from your phone before leaving home with this handy project based on an **M5Stack Atom Lite** and the **ThingShow** app.
+
+[Track outdoor weather on your phone using Atom Lite](https://www.hackster.io/etolocka/track-outdoor-weather-on-your-phone-using-atom-lite-982a54)
+
 
 ![Outdoor monitor with Atom Lite](/images/monitor1.jpg)
 
