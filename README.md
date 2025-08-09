@@ -4,7 +4,6 @@
 
 Consultá desde tu teléfono la temperatura, la humedad y la presión ambiental antes de salir de casa, con este práctico proyecto basado en un Atom Lite de M5Stack y la app ThingShow.
 
-[Monitorea el clima en tu teléfono con Atom Lite](https://www.profetolocka.com.ar/2025/06/30/monitorea-el-clima-en-tu-telefono-con-atom-lite/)
 
 ![Outdoor monitor with Atom Lite](/images/monitor1.jpg)
 
@@ -22,6 +21,14 @@ El repositorio está organizado en carpetas con el siguiente contenido:
 **KiCad:** Proyecto de Kicad 9 con el esquemático y PCB
 
 **images:** Imágenes para este archivo
+
+---
+
+## 📜 Funcionamiento
+
+Lee la explicación completa del funcionamiento del monitor en mi blog:
+
+[Monitorea el clima en tu teléfono con Atom Lite](https://www.profetolocka.com.ar/2025/06/30/monitorea-el-clima-en-tu-telefono-con-atom-lite/)
 
 ---
 
@@ -59,6 +66,15 @@ The repository is organized into folders with the following content:
 **KiCad:** KiCad 9 project with schematic and PCB
 
 **images:** Images for this file
+
+---
+
+## 📜 Operation
+
+Read the full explanation of how the monitor works:
+
+[Track outdoor weather on your phone using Atom Lite – PCBWay Project](https://www.pcbway.com/project/shareproject/Track_outdoor_weather_on_your_phone_using_Atom_Lite_3f8a86fd.html)
+[Track outdoor weather on your phone using Atom Lite – Hackster.io](https://www.hackster.io/etolocka/track-outdoor-weather-on-your-phone-using-atom-lite-982a54)
 
 ---
 
